@@ -11,10 +11,10 @@
 
 <br/>
 <img alt="" src="./assets/spiral.png" width="50" align=right>
+
 <h3><img alt="" src="./assets/kiwi.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
 <div align=center>
-<img alt="csharp, dotnet, golang, html, css3, blazor, tailwindcss, bootstrap, postgresql, sqlite, aseprite, git" src="https://skills.syvixor.com/api/icons?perline=6&i=csharp,dotnet,golang,html,css3,blazor,tailwindcss,bootstrap,postgresql,sqlite,aseprite,git
-">
+<img alt="csharp, dotnet, golang, html, css3, blazor, tailwindcss, bootstrap, postgresql, sqlite, aseprite, git" src="https://skills.syvixor.com/api/icons?perline=6&i=csharp,dotnet,golang,html,css3,blazor,tailwindcss,bootstrap,postgresql,sqlite,aseprite,git">
 </div>
 <h3><img alt="" src="./assets/lemon.png" width='24' align="left"/>&nbsp;GitHub Analytics</h3>
 
@@ -31,10 +31,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/melisapo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=334eac&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=334eac&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />&nbsp;
 </a>
 <a href="https://mailto:melissagh3009@gmail.com/" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=f8769c&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=f8769c&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />&nbsp;
 </a>
 <a href="https://t.me/melisapo" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=426bc2&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
@@ -42,5 +42,5 @@
 </p>
 
 <div align=center>
-<img alt="" src="./assets/animated-leafs.gif" width=200>
+<img alt="" src="./assets/animated-leafs.gif" width=256>
 </div>
