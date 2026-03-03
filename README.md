@@ -2,7 +2,7 @@
 
 <div align=center></div>
 
-<img align=right alt="dancing-gopher" src="./assets/dancing-gopher.gif" width="200">
+<img align=right alt="dancing-gopher" src="./assets/dancing-gopher.gif" width="240">
 <h3><img alt="" src="./assets/melon.png" width='24' align="left"/>&nbsp;About Me</h3>
 
 
@@ -10,9 +10,6 @@
 ☆&nbsp; My main language is **C#**, and I’m always learning new things alongside it. \
 ☆&nbsp; I enjoy building creative and helpful projects \
 ☆&nbsp; Not an expert, just curious and consistent.
-
-<br/>
-<img alt="" src="./assets/spiral.png" width="50" align=right>
 
 <h3><img alt="" src="./assets/kiwi.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
 <div align=center>
