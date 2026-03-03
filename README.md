@@ -2,7 +2,7 @@
 
 <div align=center></div>
 
-<img align=right alt="dancing-gopher" src="./assets/dancing-gopher.gif" width="300">
+<img align=right alt="dancing-gopher" src="./assets/dancing-gopher.gif" width="150">
 <h3><img alt="" src="./assets/melon.png" width='24' align="left"/>&nbsp;About Me</h3>
 
 
