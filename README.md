@@ -1,8 +1,10 @@
 <h1 align=center>Hi! I'm Melissa</h1>
 
-<div align=center><img alt="footer cat" src="./assets/cat.gif" width="256"></div>
+<div align=center></div>
 
+<img align=right alt="dancing-gopher" src="./assets/dancing-gopher.gif" width="200">
 <h3><img alt="" src="./assets/melon.png" width='24' align="left"/>&nbsp;About Me</h3>
+
 
 ☆&nbsp; I’m a third-year Computer Engineering student at the **University of Matanzas**. \
 ☆&nbsp; My main language is **C#**, and I’m always learning new things alongside it. \
