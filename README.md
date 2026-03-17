@@ -30,10 +30,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/melisapo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=334eac&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />&nbsp;
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=334eac&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://mailto:melissagh3009@gmail.com/" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=f8769c&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />&nbsp;
+<img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=f8769c&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/melisapo" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=426bc2&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
