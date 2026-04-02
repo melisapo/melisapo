@@ -13,7 +13,7 @@
 
 <h3><img alt="" src="./assets/kiwi.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
 <div align=center>
-<img alt="csharp, dotnet, golang, html, css3, blazor, tailwindcss, bootstrap, postgresql, sqlite, aseprite, git" src="https://skills.syvixor.com/api/icons?perline=6&i=csharp,dotnet,golang,html,css3,blazor,tailwindcss,bootstrap,postgresql,sqlite,aseprite,git">
+<img width=500 src="https://skills.syvixor.com/api/icons?perline=7&i=csharp,dotnet,golang,html,css3,javascript,git,tailwindcss,astro,blazor,bun,postgresql,aseprite,linux">
 </div>
 <h3><img alt="" src="./assets/lemon.png" width='24' align="left"/>&nbsp;GitHub Analytics</h3>
 
