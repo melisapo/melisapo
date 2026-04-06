@@ -2,8 +2,8 @@
 
 <div align=center></div>
 
-<img align=right alt="dancing-gopher" src="./assets/dancing-gopher.gif" width="150">
-<h3><img alt="" src="./assets/melon.png" width='24' align="left"/>&nbsp;About Me</h3>
+<img align=right alt="avatar gif" src="./assets/hola.gif" width="150">
+<h3><img alt="" src="./assets/berry.png" width='24' align="left"/>&nbsp;About Me</h3>
 
 
 ☆&nbsp; I’m a third-year Computer Engineering student at the **University of Matanzas**. \
@@ -11,11 +11,11 @@
 ☆&nbsp; I enjoy building creative and helpful projects \
 ☆&nbsp; Not an expert, just curious and consistent.
 
-<h3><img alt="" src="./assets/kiwi.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
+<h3><img alt="" src="./assets/btn.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
 <div align=center>
 <img width=500 src="https://skills.syvixor.com/api/icons?perline=7&i=csharp,dotnet,golang,html,css3,javascript,git,tailwindcss,astro,blazor,bun,postgresql,aseprite,linux">
 </div>
-<h3><img alt="" src="./assets/lemon.png" width='24' align="left"/>&nbsp;GitHub Analytics</h3>
+<h3><img alt="" src="./assets/bug.png" width='24' align="left"/>&nbsp;GitHub Analytics</h3>
 
 <p align="center">
 <a href="https://github.com/melisapo">
@@ -24,9 +24,7 @@
 </a>
 </p>
 
-<img alt="" src="./assets/exclamation.png" width="60" align=right>
-
-<h3><img alt="" src="./assets/blueberry.png" width='24' align="left"/>&nbsp;Connect with Me</h3>
+<h3><img alt="" src="./assets/mug.png" width='24' align="left"/>&nbsp;Connect with Me</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/melisapo" target="_blank">
