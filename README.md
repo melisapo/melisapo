@@ -2,7 +2,7 @@
 
 <div align=center></div>
 
-<img align=right alt="avatar gif" src="./assets/hola.gif" width="320">
+<img align=right alt="avatar gif" src="./assets/hola.gif" width="350">
 <h3><img alt="" src="./assets/berry.png" width='24' align="left"/>&nbsp;About Me</h3>
 
 
