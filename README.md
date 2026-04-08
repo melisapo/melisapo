@@ -12,8 +12,8 @@
 ☆&nbsp; Not an expert, just curious and consistent.
 
 <h3><img alt="" src="./assets/btn.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
-<div align=center>
-<img width=500 src="https://skills.syvixor.com/api/icons?perline=7&i=csharp,dotnet,golang,html,css3,javascript,git,tailwindcss,astro,blazor,bun,postgresql,aseprite,linux">
+<div align=left>
+<img width=400 src="https://skills.syvixor.com/api/icons?perline=7&i=csharp,dotnet,golang,html,css3,javascript,git,tailwindcss,astro,blazor,bun,postgresql,aseprite,linux">
 </div>
 <h3><img alt="" src="./assets/bug.png" width='24' align="left"/>&nbsp;GitHub Analytics</h3>
 
