@@ -3,7 +3,7 @@
 <div align=center></div>
 
 <img align=right alt="avatar gif" src="./assets/hola.gif" width="350">
-<h3><img alt="" src="./assets/berry.png" width='24' align="left"/>&nbsp;About Me</h3>
+<h3><img alt="" src="./assets/berry.png" width='24' align="left"/>About Me</h3>
 
 
 ☆&nbsp; I’m a third-year Computer Engineering student at the **University of Matanzas**. \
@@ -11,11 +11,11 @@
 ☆&nbsp; I enjoy building creative and helpful projects \
 ☆&nbsp; Not an expert, just curious and consistent.
 
-<h3><img alt="" src="./assets/btn.png" width='24' align="left"/>&nbsp;Tech Stack</h3>
+<h3><img alt="" src="./assets/btn.png" width='24' align="left"/>Tech Stack</h3>
 <div align=left>
 <img width=400 src="https://skills.syvixor.com/api/icons?perline=7&i=csharp,dotnet,golang,html,css3,javascript,git,tailwindcss,astro,blazor,bun,postgresql,aseprite,linux">
 </div>
-<h3><img alt="" src="./assets/bug.png" width='24' align="left"/>&nbsp;GitHub Analytics</h3>
+<h3><img alt="" src="./assets/bug.png" width='24' align="left"/>GitHub Analytics</h3>
 
 <p align="center">
 <a href="https://github.com/melisapo">
@@ -24,7 +24,7 @@
 </a>
 </p>
 
-<h3><img alt="" src="./assets/mug.png" width='24' align="left"/>&nbsp;Connect with Me</h3>
+<h3><img alt="" src="./assets/mug.png" width='24' align="left"/>Connect with Me</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/melisapo" target="_blank">
